@@ -43,6 +43,8 @@ To answer the project questions, I developed an **interactive Excel dashboard** 
 
 This interactive format supports deeper analysis and makes key insights easier to identify.
 
+![Avocado Sales Dashboard](AvocadoSales.png)
+
 
 
 ---

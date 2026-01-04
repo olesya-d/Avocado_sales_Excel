@@ -50,3 +50,42 @@ This interactive format supports deeper analysis and makes key insights easier t
 ---
 
 ## 4. Recommendations / Insights
+
+**Overall trends:**  
+Both total demand and average price show a gradual upward trend over time. Demand increased by approximately **10% in 2016** and a further **2% in 2017**. Data for 2018 is limited to Q1, so longer-term trends for that year cannot yet be confirmed.
+
+**Seasonality:**  
+Clear seasonal patterns are visible. Higher average prices in **Q1 and Q4** are likely driven by seasonal supply constraints, which contribute to lower demand during these periods.
+
+**Price–demand relationship:**  
+Demand is relatively low in the lowest price ranges and increases as prices rise, peaking in a moderate price range of approximately **0.94–1.04**, indicating a strong “value-for-money” segment. Demand declines at higher prices as consumers become more price-sensitive.
+
+**Recommendations:**
+- Implement targeted discounts or temporary price reductions in off-season quarters (Q1, Q4) to stimulate demand.
+- Improve off-season sourcing and supply-chain efficiency to reduce costs and support competitive pricing.
+- Focus pricing strategies around the **optimal price range (0.94–1.04)** to maximize sales volume.
+
+---
+
+**Regional performance:**  
+The **West** and **SouthCentral** regions dominate avocado sales, significantly outperforming other regions.
+
+**City / metro concentration:**  
+Sales are heavily concentrated in **California** and major metropolitan areas such as **Los Angeles, New York, Dallas, and Houston**, highlighting strong urban demand.
+
+**Recommendations:**
+- Prioritize investment and supply optimization in top-performing regions and metro areas.
+- Selectively test growth initiatives in mid-performing regions.
+
+---
+
+**Product type:**  
+Conventional avocados account for most total demand, while **organic avocados show significantly faster growth**, indicating changing consumer preferences.
+
+**Packaging:**  
+Demand is concentrated in a limited number of package types, with certain bag sizes and product codes clearly outperforming others.
+
+**Recommendations:**
+- Gradually expand organic avocado supply while maintaining conventional volume for scale.
+- Optimize the packaging mix by focusing on high-demand formats and reducing emphasis on low-performing ones.
+
